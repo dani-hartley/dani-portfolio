@@ -12,21 +12,23 @@ Create a professional portfolio ensuring the following items are included:
 
 ## Code
 
-![image](https://user-images.githubusercontent.com/79660405/113469912-e4939280-9416-11eb-9e45-f1941640dcb8.png)
+![image](https://user-images.githubusercontent.com/79660405/113482901-59da8400-9466-11eb-94ef-23c44670b5cb.png)
 
-![image](https://user-images.githubusercontent.com/79660405/113469922-fd9c4380-9416-11eb-96e2-87865b521cb4.png)
+![image](https://user-images.githubusercontent.com/79660405/113482919-7080db00-9466-11eb-82e0-3d90137fcd1a.png)
 
 ## CSS
 
-![image](https://user-images.githubusercontent.com/79660405/113469939-1c9ad580-9417-11eb-8675-2520a11205a6.png)
+![image](https://user-images.githubusercontent.com/79660405/113482951-91493080-9466-11eb-82c5-3d5358d43c99.png)
 
-![image](https://user-images.githubusercontent.com/79660405/113469947-30463c00-9417-11eb-9011-bd414491f9cc.png)
+![image](https://user-images.githubusercontent.com/79660405/113482973-a6be5a80-9466-11eb-81ce-944c6ced8f1e.png)
 
-![image](https://user-images.githubusercontent.com/79660405/113469958-58359f80-9417-11eb-9f26-22ba07301a6f.png)
+![image](https://user-images.githubusercontent.com/79660405/113482990-bd64b180-9466-11eb-9113-113a4c5103d6.png)
 
-![image](https://user-images.githubusercontent.com/79660405/113469968-6e436000-9417-11eb-8289-50aea0600100.png)
+![image](https://user-images.githubusercontent.com/79660405/113483033-07e62e00-9467-11eb-9c19-51bfe5cedfcc.png)
 
-![image](https://user-images.githubusercontent.com/79660405/113469977-84e9b700-9417-11eb-9bd1-7dca1bc5dc4f.png)
+![image](https://user-images.githubusercontent.com/79660405/113483060-2a784700-9467-11eb-80bd-7a8305e196e2.png)
+
+![image](https://user-images.githubusercontent.com/79660405/113483068-3b28bd00-9467-11eb-8798-709f4ae77b1b.png)
 
 ## Linked to Deployed Application
 
