@@ -76,7 +76,7 @@ header nav ul li {
     color: var(--primary-color);
   }
 
-  .bottom-right {
+.bottom-right {
     position: absolute;
     bottom: 130px;
     right: 16px;
