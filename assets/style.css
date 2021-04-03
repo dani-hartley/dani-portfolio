@@ -98,6 +98,14 @@ section div p {
     font-weight: lighter;
 }
 
+section a {
+    text-decoration:none;
+}
+
+section a:hover {
+    opacity: 0.5;
+}
+
 .flex-container {
     display: flex;
     flex-wrap: wrap;
@@ -107,6 +115,7 @@ section div p {
 
 .flex-item {
     width: 49%;
+    min-width: 49%;
     border: 4px solid var(--secondary-color);
     font-size:22px;
     font-weight:bold;
@@ -118,7 +127,8 @@ section div p {
 }
 
 #first-link {
-    width:100%
+    width:100%;
+    height: 450px;
 }
 
 .flex-item span {
@@ -130,9 +140,13 @@ section div p {
     text-align: center;
 }
 
-.flex-item:hover {
-    color:#fce138;
-    background: #39a6b2;
+.apptext {
+    margin-top: auto;
+    width: fit-content;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    padding: 10px 5px;
+    text-align: center;
 }
 
 footer ul {
