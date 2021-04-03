@@ -71,6 +71,22 @@ header nav ul li {
     background-position: center;
 }
 
+.container {
+    position: relative;
+    color: var(--primary-color);
+  }
+
+  .bottom-right {
+    position: absolute;
+    bottom: 130px;
+    right: 16px;
+    background-color: var(--secondary-color);
+    font-size:35px;
+    padding: 15px;
+    text-align: center;
+    width: 400px;
+  }
+
 .section-title {
     margin: 30px auto;
     width: 80%;
@@ -81,7 +97,7 @@ header nav ul li {
 
 .section-title h2 {
     flex: 1 20%;
-    font-size: 50px;
+    font-size: 45px;
     color: var(--primary-color);
     text-align: right;
     padding-right: 20px;
@@ -136,15 +152,6 @@ section a:hover {
     height: 450px;
 }
 
-.flex-item span {
-    margin-top: auto;
-    width: fit-content;
-    background-color: var(--secondary-color);
-    color: var(--primary-color);
-    padding: 10px 5px;
-    text-align: center;
-}
-
 .apptext {
     margin-top: auto;
     width: fit-content;
@@ -190,16 +197,23 @@ footer a {
     header h1 {
         width: 100%;
         text-align: center;
+        padding: 0px;
     }
     header nav ul {
         margin-top: 20px;
         width: 100%;
         justify-content: center;
-        padding: 0px;
+        padding: 0px 0px 10px 0px;
     }
 
     header nav ul li a {
         font-size: 20px;
+    }
+
+    .bottom-right {
+        font-size: 25px;
+        width:300px;
+        bottom: 160px;
     }
 
     footer h2, footer div {
@@ -208,15 +222,28 @@ footer a {
     }
 
     .section-title h2 {
-        width: 80%;
+        flex: 100%;
         text-align: center;
         border-right:none;
         border-bottom: 5px solid var(--primary-color);
     }
 
     .section-info {
-        padding-top: 15px;
+        padding-top: 30px;
         padding-left: 0px;
+    }
+}
+
+/* MEDIA QUERY FOR TABLETS AND SMALLER*/
+@media screen and (max-width: 768px) {
+    .hero {
+        height: 350px;
+    }
+    
+    .bottom-right {
+        font-size: 16px;
+        width: 225px;
+        bottom: 100px;
     }
 }
 
@@ -229,6 +256,16 @@ footer a {
    header h1 {
        padding: 0px;
    }
+
+   .hero {
+        height: 250px;
+}
+
+    .bottom-right {
+        font-size: 16px;
+        width: 150px;
+        bottom: 50px;
+}
 
    .flex-item {
        width:100%;
